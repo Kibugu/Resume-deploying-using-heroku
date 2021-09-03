@@ -1,0 +1,1 @@
+web: gunicorn djangoresume1.wsgi
